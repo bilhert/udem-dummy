@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print a
         run: | 
-          echo "hi
+          echo "hi"
           echo "world"
       - name: print end
         run: echo "the end"
